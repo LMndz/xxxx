@@ -1,4 +1,4 @@
-package facci.rogercruz.practica;
+package facci.SaraTS.practica;
 
 import org.junit.Test;
 

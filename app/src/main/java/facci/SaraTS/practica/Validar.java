@@ -1,4 +1,5 @@
-package facci.rogercruz.practica;
+package facci.SaraTS.practica;
+
 
 import android.os.Bundle;
 import android.widget.EditText;
